@@ -40,6 +40,11 @@
   padding-right: 0;
 }
 
+* footer .container .social .social_item:hover img {
+  width: 18px;
+  height: 18px;
+}
+
 * footer .container .copyright {
   font-size: 12px;
 }

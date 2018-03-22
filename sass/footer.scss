@@ -34,6 +34,12 @@
         .social_item:last-child {
           padding-right: 0;
         }
+        .social_item:hover {
+          img {
+            width: 18px;
+            height: 18px;
+          }
+        }
       }
       .copyright {
         font-size: 12px;
